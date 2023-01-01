@@ -1,6 +1,6 @@
-# VASProcar-Python-tools-VASP (version 1.1.11)
+# VASProcar-Python-tools-VASP (version 1.1.12)
 
-![DOI](./VASProcar_v1.1.11/src/etc/DOI.png)
+![DOI](./vasprocar/src/etc/DOI.png)
 https://doi.org/10.5281/zenodo.6343960
 https://pypi.org/project/vasprocar
 
