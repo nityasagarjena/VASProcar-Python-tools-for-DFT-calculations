@@ -3,7 +3,6 @@
 ![DOI](./vasprocar/src/etc/DOI.png)
 
 https://doi.org/10.5281/zenodo.6343960
-
 https://pypi.org/project/vasprocar
 
 ------------------------------------------------------------------------
