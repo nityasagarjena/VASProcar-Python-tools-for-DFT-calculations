@@ -30,7 +30,7 @@ Python 3 code for extracting information and results from the following VASP out
 - Manual Installation:
 
   ```bash
-  python install_VASProcar.py 
+  python manual_installation.py
   ```
 
 - Run Code:
