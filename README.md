@@ -18,22 +18,22 @@ Python 3 code for extracting information and results from the following VASP out
     * Moviepy
     * Kaleido
     
-- Using Pip
+- Using Pip:
 
   ```bash
   pip install --upgrade vasprocar
   ```
 
-- Manual Installation
+- Manual Installation:
 
   ```bash
   python install_VASProcar.py 
   ```
 
-- Start Code
+- Run Code:
 
   ```bash
- python -m vasprocar 
+  python -m vasprocar 
   ```
 
 For more informations/questions send an e-mail to: augusto-lelis@outlook.com
