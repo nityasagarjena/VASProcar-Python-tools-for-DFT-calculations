@@ -1,5 +1,4 @@
 # VASProcar-Python-tools-VASP (version 1.1.13)
-https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP/blob/main/vasprocar/DOI.png
 
 https://doi.org/10.5281/zenodo.6343960
 
