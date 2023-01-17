@@ -41,7 +41,7 @@ https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP
 - Run Code:
 
   ```bash
-  python -m vasprocar 
+  python -m vasprocar   or   python3 -m vasprocar
   ```
 ------------------------------------------------------------------------
 
