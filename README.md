@@ -4,13 +4,15 @@ VASProcar is an open-source package written in the Python 3 programming language
 
 VASProcar extracts information and results from the following VASP output files (CONTCAR, KPOINTS, OUTCAR, PROCAR, DOSCAR, LOCPOT, PARCHG and vasprun.xml).
 
+Please use the following DOI (10.5281/zenodo.6343960) to cite the use of the code in publications.
+
 ------------------------------------------------------------------------
 
-https://doi.org/10.5281/zenodo.6343960
+## Repository
 
-https://pypi.org/project/vasprocar
-
-https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP
+- [ZENODO](https://doi.org/10.5281/zenodo.6343960)
+- [GitHub](https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP)
+- [PyPi](https://pypi.org/project/vasprocar)
 
 ------------------------------------------------------------------------
 
