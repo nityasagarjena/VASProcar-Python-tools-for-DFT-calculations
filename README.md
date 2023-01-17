@@ -8,11 +8,9 @@ Please use the following DOI ([10.5281/zenodo.6343960](https://doi.org/10.5281/z
 
 ------------------------------------------------------------------------
 
-## Repository
+## Eepositories
 
-- [ZENODO](https://doi.org/10.5281/zenodo.6343960)
-- [GitHub](https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP)
-- [PyPi](https://pypi.org/project/vasprocar)
+- [ZENODO](https://doi.org/10.5281/zenodo.6343960), [GitHub](https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP), and [PyPi](https://pypi.org/project/vasprocar)
 
 ------------------------------------------------------------------------
 
