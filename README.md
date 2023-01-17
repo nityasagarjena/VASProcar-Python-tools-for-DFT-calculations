@@ -18,7 +18,7 @@ https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP
 
 -  Requirements
 
-    * Numpy
+    - [Numpy](https://pypi.org/project/numpy/)
     * Scipy
     * Matplotlib
     * Plotly
