@@ -36,7 +36,7 @@ Please use the following DOI ([10.5281/zenodo.6343960](https://doi.org/10.5281/z
 - Run Code:
 
   ```bash
-  python -m vasprocar   or   python3 -m vasprocar
+  python -m vasprocar
   ```
 ------------------------------------------------------------------------
 
