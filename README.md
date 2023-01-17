@@ -1,4 +1,4 @@
-# VASProcar Copyright (C) 2023 (version 1.1.13) // GNU GPL-3.0 license
+# VASProcar Copyright (C) 2023   -   GNU GPL-3.0 license
 
 VASProcar is an open-source package written in the Python 3 programming language, which aims to provide an intuitive tool for the post-processing of the output files produced by the DFT VASP code, through an interactive user interface.
 
