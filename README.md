@@ -19,13 +19,12 @@ https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP
 -  Requirements
 
     - [Numpy](https://pypi.org/project/numpy/)
-    * Scipy
-    * Matplotlib
-    * Plotly
-    * Moviepy
-    * Kaleido
+    - [Scipy](https://pypi.org/project/scipy/)
+    - [Matplotlib](https://pypi.org/project/matplotlib/)
+    - [Plotly](https://pypi.org/project/plotly/)
+    - [Moviepy](https://pypi.org/project/moviepy/)
+    - [Kaleido](https://pypi.org/project/kaleido/)
     
-
 - Using Pip:
 
   ```bash
