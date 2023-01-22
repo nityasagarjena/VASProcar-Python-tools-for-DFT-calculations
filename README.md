@@ -13,6 +13,35 @@ Please use the following DOI ([10.5281/zenodo.6343960](https://doi.org/10.5281/z
 
 ## Installation
 
+
+-  Requirements
+
+    - `Numpy <https://pypi.org/project/numpy/>`_
+    - `Scipy <https://pypi.org/project/scipy/>`_
+    - `Matplotlib <https://pypi.org/project/matplotlib/>`_    
+    - `Plotly <https://pypi.org/project/plotly/>`_    
+    - `Moviepy <https://pypi.org/project/moviepy/>`_    
+    - `Kaleido <https://pypi.org/project/kaleido/>`_    
+    
+- Using Pip:
+
+.. code-block:: console
+
+   pip install --upgrade vasprocar
+
+- Manual Installation:
+
+.. code-block:: console
+
+   python manual_installation.py
+   
+- Run Code:
+
+.. code-block:: console
+
+   python -m vasprocar
+
+
 -  Requirements
 
     - [Numpy](https://pypi.org/project/numpy/)
