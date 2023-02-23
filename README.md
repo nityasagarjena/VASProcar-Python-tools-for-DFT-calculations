@@ -25,19 +25,13 @@ Please use the following DOI ([10.5281/zenodo.6343960](https://doi.org/10.5281/z
     
 - Using Pip:
 
-.. code-block:: console
+   pip install vasprocar  (Closed Access)
 
-   pip install --upgrade vasprocar
-
-- Manual Installation:
-
-.. code-block:: console
+- Manual Installation:  (unzip the VASProcar_v1.1.13.zip file)
 
    python manual_installation.py
    
-- Run Code:
-
-.. code-block:: console
+- Run Code:  (in the directory containing the VASP output files)
 
    python -m vasprocar
 
@@ -51,19 +45,19 @@ Please use the following DOI ([10.5281/zenodo.6343960](https://doi.org/10.5281/z
     - [Moviepy](https://pypi.org/project/moviepy/)
     - [Kaleido](https://pypi.org/project/kaleido/)
     
-- Using Pip:
+- Using Pip:  (Closed Access)
 
   ```bash
-  pip install --upgrade vasprocar
+  pip install vasprocar
   ```
 
-- Manual Installation:
+- Manual Installation:  (unzip the VASProcar_v1.1.13.zip file)
 
   ```bash
   python manual_installation.py
   ```
 
-- Run Code:
+- Run Code:  (in the directory containing the VASP output files)
 
   ```bash
   python -m vasprocar
