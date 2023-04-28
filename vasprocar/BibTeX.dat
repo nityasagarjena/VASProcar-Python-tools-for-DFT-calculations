@@ -1,0 +1,10 @@
+@software{augusto_de_lelis_araujo_2022_6343960,
+  author       = {A. L. Araújo and R. P. Maciel},
+  title        = {VASProcar Tools Python v1.1.15},
+  month        = apr,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {1.1.15},
+  doi          = {10.5281/zenodo.6343960},
+  url          = {https://doi.org/10.5281/zenodo.6343960}
+}
