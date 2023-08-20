@@ -9,6 +9,8 @@ Please use the following DOI ([10.5281/zenodo.6343960](https://doi.org/10.5281/z
 
 ### Repositories:  [ZENODO](https://doi.org/10.5281/zenodo.6343960), [GitHub](https://github.com/Augusto-de-Lelis-Araujo/VASProcar-Python-tools-VASP), and [PyPi](https://pypi.org/project/vasprocar)
 
+For more informations/questions send an e-mail to: augusto-lelis@outlook.com
+
 ------------------------------------------------------------------------
 
 ## Installation
@@ -39,9 +41,6 @@ Please use the following DOI ([10.5281/zenodo.6343960](https://doi.org/10.5281/z
   ```bash
   python -m vasprocar
   ```
-------------------------------------------------------------------------
-
-For more informations/questions send an e-mail to: augusto-lelis@outlook.com
 
 ------------------------------------------------------------------------
 
