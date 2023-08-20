@@ -46,19 +46,13 @@ For more informations/questions send an e-mail to: augusto-lelis@outlook.com
 ------------------------------------------------------------------------
 
 <img src="examples/figures/Graphene.png">
-Graphene monolayer: (a) Crystal lattice unit cell, (b) 1º Brillouin zone, and (c) Band structure, (d) 3D plot of band structure, and (e)
-Levels contour.
-
+Figure 1) Graphene monolayer: (a) Crystal lattice unit cell, (b) 1º Brillouin zone, and (c) Band structure, (d) 3D plot of band structure, and (e) Levels contour.
 
 <img src="examples/figures/PbSe.png">
-PbSe bulk under pressure: (a) Crystal lattice unit cell, (b) 1º Brillouin zone, (c) Band structure, (d) Projection of orbitals, (e) Density of
-states, (f) projection of the Pb/Se contribution, and Projection of the character of states without (h) and with (i) SO.
-
+Figure 2) PbSe bulk under pressure: (a) Crystal lattice unit cell, (b) 1º Brillouin zone, (c) Band structure, (d) Projection of orbitals, (e) Density of states, (f) projection of the Pb/Se contribution, and Projection of the character of states without (h) and with (i) SO.
 
 <img src="examples/figures/PbSe_Slab_Spin_Texture.png">
-Projection of bulk and surface states (a) and spin textures on the upper (b) and lower (a) surface of the stacking of the PbSe under
-pressure.
-
+Figure 3) Projection of bulk and surface states (a) and spin textures on the upper (b) and lower (a) surface of the stacking of the PbSe under pressure.
 
 <img src="examples/figures/PbSe_Slab_Plot_3D.png">
-3D plot of the band structure of PbSe stacking under pressure (a) and Level Contours of the valence (b) and conduction (c) bands.
+Figure 4) 3D plot of the band structure of PbSe stacking under pressure (a) and Level Contours of the valence (b) and conduction (c) bands.
