@@ -45,3 +45,6 @@ For more informations/questions send an e-mail to: augusto-lelis@outlook.com
 ------------------------------------------------------------------------
 
 <img src="examples/figures/Graphene.png">
+<img src="examples/figures/PbSe.png">
+<img src="examples/figures/PbSe_Slab_Plot_3D.png">
+<img src="examples/figures/PbSe_Slab_Spin_Texture.png">
