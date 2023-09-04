@@ -1,8 +1,5 @@
 # VASProcar Copyright (C) 2023   -   GNU GPL-3.0 license
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![PyPI](https://img.shields.io/pypi/v/vasprocar)]([https://pypi.org/project/dft2kp](https://pypi.org/project/vasprocar)/)
-
 VASProcar is an open-source package written in the Python 3 programming language, which aims to provide an intuitive tool for the post-processing of the output files produced by the DFT VASP code, through an interactive user interface.
 
 VASProcar extracts information and results from the following VASP output files (CONTCAR, KPOINTS, OUTCAR, PROCAR, DOSCAR, LOCPOT, PARCHG and vasprun.xml).
