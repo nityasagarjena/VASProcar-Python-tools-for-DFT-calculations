@@ -1,5 +1,5 @@
 # VASProcar Copyright (C) 2023 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-## Article on ZENODO/OpenAIRE/CERN: [VASProcar: Python tools for DFT calculations](https://zenodo.org/record/7951116)
+## Article on ZENODO: [VASProcar: Python tools for DFT calculations](https://zenodo.org/record/7951116)
 
 VASProcar is an open-source package written in the Python 3 programming language, which aims to provide an intuitive tool for the post-processing of the output files produced by the DFT VASP code, through an interactive user interface.
 
