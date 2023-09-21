@@ -13,6 +13,9 @@ vasp_files = 0
 try: f = open(dir_files + '/CONTCAR'); f.close(); vasp_files += 1
 except: 0 == 0
 
+try: f = open(dir_files + '/POSCAR'); f.close(); vasp_files += 1
+except: 0 == 0
+
 try: f = open(dir_files + '/OUTCAR'); f.close(); vasp_files += 1
 except: 0 == 0
 
@@ -56,4 +59,4 @@ except: 0 == 0
 if (vasp_files != 0 and qe_files == 0): DFT = '_VASP/'
 if (vasp_files == 0 and qe_files != 0): DFT = '_QE/' 
 if (vasp_files == 0 and qe_files == 0): DFT = '_?/' 
-if (vasp_files == 0 and qe_files == 0): DFT = '_?/' 
+if (vasp_files != 0 and qe_files != 0): DFT = '_?/' 
