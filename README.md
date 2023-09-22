@@ -1,9 +1,11 @@
 # VASProcar Copyright (C) 2023 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ## Article on ZENODO: [VASProcar: Python tools for DFT calculations](https://zenodo.org/record/7951116)
 
-VASProcar is an open-source package written in the Python 3 programming language, which aims to provide an intuitive tool for the post-processing of the output files produced by the DFT VASP code, through an interactive user interface.
+VASProcar is an open-source package written in the Python 3 programming language, which aims to provide an intuitive tool for the post-processing of the output files produced by the DFT VASP or QE code, through an interactive user interface.
 
-VASProcar extracts information and results from the following VASP output files (CONTCAR, KPOINTS, OUTCAR, PROCAR, DOSCAR, LOCPOT, PARCHG and vasprun.xml).
+VASProcar extracts information and results from the following VASP output files (CONTCAR, KPOINTS, OUTCAR, PROCAR, DOSCAR, LOCPOT, PARCHG and vasprun.xml) or QE output files (scf.in, scf.out, nscf.in, nscf.out, bands.in, bands.out, projwfc.in, projwfc.out, "filband", "filproj".projwfc_up and "filpdos".pdos_atm#_wfc).
+
+Please use the following DOI (10.5281/zenodo.6343960) to cite the use of the code in publications.
 
 Please use the following DOI ([10.5281/zenodo.6343960](https://doi.org/10.5281/zenodo.6343960)) to cite the use of the code in publications.
 <img src="vasprocar/src/etc/DOI.png">
