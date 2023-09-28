@@ -85,8 +85,8 @@ if (DFT == '_QE/'):
    print("## ================================================================ ##")
    print("# Basic files to execute the code: scf.in, scf.out, nscf.in,        ##")
    print("#                                  nscf.out, bands.in, bands.out    ##")
-   print("# For other features: projwfc.in, projwfc.out, "filband",           ##")
-   print("#                     "filproj".projwfc_up and "filpdos".pdos_atm   ##")
+   print("# For other features: projwfc.in, projwfc.out, 'filband',           ##")
+   print("#                     'filproj'.projwfc_up and 'filpdos'.pdos_atm   ##")
    print("######################################################################")   
    print(" ")
    #---------------------
