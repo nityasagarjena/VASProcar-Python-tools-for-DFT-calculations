@@ -6,8 +6,6 @@ def execute_python_file(filename: str):
 
 execute_python_file(filename = DFT + '_info.py')
 
-read_reg = 0
-
 #-------------------------------------------------------------------------
 inform = open(dir_files + '/output/informacoes.txt', "a")
 #-------------------------------------------------------------------------
